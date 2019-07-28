@@ -1,5 +1,1 @@
-# Vanilla JS Issue Tracker
-
-- My first dive into DOM Manipulation
-
-Able to assign tasks/issues as an input and display priority. Each priority has a unique token.
+# An issue tracker with Low/Medium/High priority status and assignable tasks, with closed/open and delete options.
